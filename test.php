@@ -50,5 +50,4 @@ if (isset($_GET['id'])) {
         <input type="password" id="password" name="password"><br><br> 
         <button type="submit">Connexion</button> 
     </form> 
-</body> 
-</html>
+</
